@@ -1,0 +1,3 @@
+#!/bin/bash
+
+go run $GOPATH/src/github.com/Dooor/atami-go/db/migration/migrate.go
